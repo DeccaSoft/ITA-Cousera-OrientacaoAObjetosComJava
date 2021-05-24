@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ProjetoJogoPalavrasEmbaralhadas
+Bundle-SymbolicName: ProjetoJogoPalavrasEmbaralhadas;singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: ProjetoJogoPalavrasEmbaralhadas.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.modisco.infra.common.core,
+ org.eclipse.modisco.infra.query.core,
+ org.junit
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .,bin

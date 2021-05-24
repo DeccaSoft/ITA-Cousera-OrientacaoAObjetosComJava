@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="ColegasAvaliar"/>
+	</list>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.e4.ui.importer.wizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula6.16-ExcecoesParaLerArquivo\ExcecoesLeituraArquivo.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula6_ProjetoFinal_JogoPalavrasEmbaralhadas\PalavrasEmbaralhadas.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula5MetodoAcessoDatas\Aula5_TesteIdadeSigno.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula5_Interfaces_FormatadorNomes\Aula5_FormatadorNomes.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula4-Produtos\Aula5_FormatadorNomes.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula4-Produtos\Aula5_Concurso.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula4-Produtos\Aula4_Produtos.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula4-Juros-Complementar\Aula4JurosCompostos.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula3_IMC\Aula3_IMC_Teste.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula2-Pizza\Aula3_IMC_Teste.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula2-Pizza\Aula2_Pizza_Teste.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula2-Pizza\Aula2_Pizza.zip"/>
+			<item value="C:\Users\andre\Documents\EclipseWorkspace\Cousera\Aula1-IMC\Aula1_IMC.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="com.yattasolutions.diagrams.classdiagram.newModelAndClassdiagramWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.ecore.Wizard.category.ID"/>
+			<item value="com.yattasolutions.umllab.category"/>
+		</list>
+	</section>
+</section>

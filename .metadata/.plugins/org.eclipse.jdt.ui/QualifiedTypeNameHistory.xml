@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="CarrinhoDeCompras"/>
+    <fullyQualifiedTypeName name="Pizza"/>
+    <fullyQualifiedTypeName name="Paciente"/>
+    <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="classes.Produto"/>
+    <fullyQualifiedTypeName name="classes.CarrinhoDeCompras"/>
+    <fullyQualifiedTypeName name="classes.ProdutoComTamanho"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="FormatadorNome"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="Barulhento"/>
+    <fullyQualifiedTypeName name="javax.security.auth.login.LoginException"/>
+    <fullyQualifiedTypeName name="Autenticador"/>
+    <fullyQualifiedTypeName name="LoginException"/>
+    <fullyQualifiedTypeName name="principal.LeitoraDeArquivo"/>
+    <fullyQualifiedTypeName name="LeituraArquivoException"/>
+    <fullyQualifiedTypeName name="br.com.excecoesleituraarquivo.LeituraArquivoException"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

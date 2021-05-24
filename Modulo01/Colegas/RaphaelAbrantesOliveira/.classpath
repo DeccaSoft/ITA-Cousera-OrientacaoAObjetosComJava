@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Test_IMC/calculoIMCTestes/src"/>
+	<classpathentry kind="src" path="Test_IMC/calculoIMCTestes/tests"/>
+	<classpathentry kind="output" path="Test_IMC/calculoIMCTestes/bin"/>
+</classpath>

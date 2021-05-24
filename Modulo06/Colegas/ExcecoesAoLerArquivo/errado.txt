@@ -1,0 +1,3 @@
+nome->->->->Eduardo
+sobrenomeGuerra
+idade->35

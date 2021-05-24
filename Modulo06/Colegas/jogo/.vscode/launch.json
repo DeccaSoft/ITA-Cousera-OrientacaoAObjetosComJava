@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "br.com.mario.Main",
+            "projectName": "br.com.mario"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Principal",
+            "request": "launch",
+            "mainClass": "br.com.mario.Principal",
+            "projectName": "br.com.mario"
+        }
+    ]
+}
